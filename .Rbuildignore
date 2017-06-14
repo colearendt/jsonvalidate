@@ -10,3 +10,4 @@
 ^update_web\.sh$
 ^cran-comments\.md$
 ^jsonvalidate_*\.tar\.gz$
+^tests/testsuite$

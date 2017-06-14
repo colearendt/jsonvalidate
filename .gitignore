@@ -6,3 +6,4 @@ inst/doc
 inst/web
 *.tar.gz
 cran-comments.md
+tests/testsuite
